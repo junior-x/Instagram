@@ -3,7 +3,7 @@ App development in React Native.
 
 ---
 
-# npm install   ///   expo upgrade
+  npm install   ///   expo upgrade
 
 
----
+
